@@ -1,0 +1,38 @@
+10
+
+dir
+9
+svn+ssh://192.168.150.150/data/repos/ProjectAndroid/trunk/src/nl/trafex/android
+svn+ssh://192.168.150.150/data/repos
+
+
+
+2010-05-15T10:59:02.432194Z
+9
+tpater
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+adea8716-947e-40e4-9ee9-b8490a195aef
+
+
+
+
+
+
+0
+
+project
+dir
+
